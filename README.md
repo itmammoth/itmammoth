@@ -1,6 +1,6 @@
 ## About me 🐘
 
-TODO
+Thriving on spicy food and programming 🔥🌶️💻, I’m aiming to be a mammoth in the IT industry.
 
 ## Contribution 🦾
 
