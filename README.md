@@ -4,7 +4,7 @@ TODO
 
 ## Contribution 🦾
 
-![itmammoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=itmammoth&show_icons=true&theme=transparent)]
+![itmammoth's GitHub stats](https://github-readme-stats.vercel.app/api?username=itmammoth&show_icons=true&count_private=true&theme=transparent)]
 
 ## Trophies 🏆
 
