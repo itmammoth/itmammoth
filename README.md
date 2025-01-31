@@ -2,20 +2,20 @@
 
 TODO
 
-### Contribution 🦾
+## Contribution 🦾
 
 <img src="https://github-readme-stats.vercel.app/api?username=itmammoth&show_icons=true" alt="ovi" width="410" />
 
-### Trophies 🏆
+## Trophies 🏆
 
 <img src="https://github-profile-trophy.vercel.app/?username=itmammoth" />
 
 
-### Programming languages
+## Programming languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=itmammoth&show_icons=true&locale=en&layout=compact)
 
-![](https://skillicons.dev/icons?i=ruby,python,js,typescript,java,html,css)
+Love ... ![](https://skillicons.dev/icons?i=ruby,python,js,typescript,java,html,css)
 
 
 <!--
