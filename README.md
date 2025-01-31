@@ -4,19 +4,16 @@ TODO
 
 ## Contribution 🦾
 
-<img src="https://github-readme-stats.vercel.app/api?username=itmammoth&show_icons=true" alt="ovi" width="410" />
+<img src="https://github-readme-stats.vercel.app/api?username=itmammoth&show_icons=true&theme=transparent" />
 
 ## Trophies 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=itmammoth" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=itmammoth&theme=nord&no-bg=true" />
 
 ## Programming languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=itmammoth&show_icons=true&locale=en&layout=compact)
-
-Love ... ![](https://skillicons.dev/icons?i=ruby,python,js,typescript,java,html,css)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=itmammoth&show_icons=true&layout=compact&theme=transparent" />
+Love ... <img src="https://skillicons.dev/icons?i=ruby,python,js,typescript,java,html,css" />
 
 <!--
 **itmammoth/itmammoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
