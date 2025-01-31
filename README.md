@@ -13,7 +13,7 @@ Thriving on spicy food and programming 🔥🌶️💻, I’m aiming to be a mam
 ## Programming languages
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itmammoth&show_icons=true&layout=compact&theme=transparent" />
-Love ... <img src="https://skillicons.dev/icons?i=ruby,python,js,typescript,java,html,css" />
+Love ... <img src="https://skillicons.dev/icons?i=ruby,python,js,typescript,dart,java,html,css" />
 
 <!--
 **itmammoth/itmammoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
