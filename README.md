@@ -8,7 +8,7 @@ Thriving on spicy food and programming 🔥🌶️💻, I’m aiming to be a mam
 
 ## Trophies 🏆
 
-<img src="https://github-profile-trophy.vercel.app/?username=itmammoth&theme=nord&no-bg=true" />
+<img src="https://github-trophies.vercel.app/?username=itmammoth&theme=nord&no-bg=true" />
 
 ## Programming languages 💬
 
